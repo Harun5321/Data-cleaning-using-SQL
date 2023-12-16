@@ -1,4 +1,4 @@
---COVID 19 Exploration
+--COVID 19 Data Exploration & Cleaning
 
 select *
 from Portfolio_projects..CovidDeaths
